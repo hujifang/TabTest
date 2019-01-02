@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "type">
+        <item>学生</item>
+        <item>老师</item>
+        <item>白领</item>
+        <item>工程师</item>
+        <item>其他</item>
+    </string-array>
+
+    <string-array name = "care">
+        <item>1.保护用户个人信息</item>
+        <item>2.用户在本网站上不得发布违法信息</item>
+        <item>3.保护个人账号和密码安全</item>
+        <item>4.本网站所有权和解释权归本网站拥有</item>
+    </string-array>
+
+</resources>
